@@ -9,6 +9,5 @@ import com.cg.ecom.entity.ProductItems;
 @Repository
 public interface ProductItemsRepository extends JpaRepository<ProductItems, Integer> {
 
-//	Iterable<ProductItems> findAll();
+
 }
-//CrudRepository<ProductItems, Integer>

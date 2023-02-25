@@ -42,8 +42,4 @@ public class ProductItems {
 	@Transient
 	private Cart carts;
 	
-//	@Transient
-//	private Cart carts;
-	
-	// constructors, getters, and setters omitted
 }
